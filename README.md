@@ -4,8 +4,6 @@ In case you are a mathematician (or related) and are looking for a job in quanti
 
 Miss a company? Found a broken link? Please reach out to me! I'd be happy to know if you have any comments, additions or corrections. Drop me a mail at <adrianscheerer@gmail.com>, connect to me [via LinkedIn](https://www.linkedin.com/in/adrianscheerer/), or file a GitHub issue/pull request to this page.
 
-I would be happy to support you in your job search by having a critical look at your applications ([see below](#resume-check)).
-
 
 ## Job aggregators
 
@@ -132,10 +130,8 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 ## Other
 
 * [Axpo power supply](https://www.axpo.com/content/axpo2/ch/de/karriere/offene-stellen.html)
-
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
-
 * [Apple](https://jobs.apple.com/en-us/search?location=zurich-ZUR)
 * [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Zurich,%20Switzerland&q=&sort_by=relevance)
 * [Facebook](https://www.facebook.com/careers/locations/zurich/?locations[0]=Zurich%2C%20Switzerland#openpositions)
