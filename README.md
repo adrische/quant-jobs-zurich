@@ -124,6 +124,8 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## IT/Quantdev
 
+* [InCube](https://www.incubegroup.com/about-us/open-positions/)
+* [Leonteq](https://ch.leonteq.com/about-us/careers/open-positions)
 * [SwissQuant](https://www.swissquant.com/en/open-positions/)
 
 
