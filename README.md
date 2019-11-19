@@ -105,6 +105,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [ELCA](https://www.elca.ch/en/jobs)
 * [EY](https://eygbl.referrals.selectminds.com/experienced-opportunities/jobs/search/63418164/)
 * [Exxeta](https://career.exxeta.com/stellenangebote.html?start=0)
+* [Finteral](https://jobs.fintegral.com/en)
 * [Finyon](https://www.finyon.ch/en/careers/jobs/)
 * [ipt](https://ipt.ch/karriere/) 
 * [KPMG](https://home.kpmg/ch/en/home/careers/job-search.html)
