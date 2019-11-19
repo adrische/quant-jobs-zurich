@@ -81,7 +81,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 ## Hedge Funds
 
 * [Amplitude Capital](https://www.linkedin.com/company/amplitude-capital/)
-* Citadel Securities [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
+* Citadel Securities: [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
 * [LGT Capital Partners](https://www.lgtcp.com/en/careers/current-vacancies/)
 * [RAM Active Investments Pfäffikon](https://ram-ai.com/de/careers/)
 * [Winton Capital](https://www.winton.com/opportunities) 
