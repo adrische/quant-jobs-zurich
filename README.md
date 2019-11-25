@@ -1,6 +1,6 @@
 ## Table of Contents
 
-* [Quant Jobs in Zurich](#job-aggregators)
+* [Quant Jobs in Zurich](#quant-jobs-in-zurich)
   * [Job Aggregators](#job-aggregators)
   * [Head Hunters/Agencies](#head-huntersagencies)
   * [Insurance](#insurance)
