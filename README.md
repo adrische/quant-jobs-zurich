@@ -5,7 +5,28 @@ In case you are a mathematician (or related) and are looking for a job in quanti
 Miss a company? Found a broken link? Please reach out to me! I'd be happy to know if you have any comments, additions or corrections. Drop me a mail at <adrianscheerer@gmail.com>, connect to me [via LinkedIn](https://www.linkedin.com/in/adrianscheerer/), or file a GitHub issue/pull request to this page.
 
 
-## Job aggregators
+## Table of Contents
+
+* [Quant Jobs in Zurich](#job-aggregators)
+  * [Job Aggregators](#job-aggregators)
+  * [Head Hunters/Agencies](#head-hunters-agencies)
+  * [Insurance](#insurance)
+  * [Banks](#banks)
+  * [Asset Managers](#asset-managers)
+  * [Hedge Funds](#hedge-funds)
+  * [Fintechs/Startups](#fintechs-startups)
+  * [Consultancies](#consultancies)
+  * [IT/Quantdev](#it-quantdev)
+  * [Other](#other)
+* [Interview Questions in Quantitative Finance](#interview-questions)
+  * [Brainteasers](#brainteasers)
+  * [Recent Topics in finance](#recent-topics-in-finance)
+  * [Classical Topics in finance](#classical-topics-in-finance)
+  * [Applied Knowledge](#applied-knowledge)
+  * [HR Interview Questions](#hr-interview-questions)
+
+
+## Job aggregators {#job-aggregators}
 
 _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative, data science, research, machine learning, Statistik, statistics, Risiko, risk, Aktuar, Actuary, etc
 
@@ -17,9 +38,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Versicherungsjobs-Schweiz](https://versicherungsjobs-schweiz.ch/search?provinces=ZH)
 
 
-
-
-## Head hunters/Agencies
+## Head hunters/Agencies {#head-hunters-agencies}
 
 * [Eka Finance](http://ekafinance.com/contact.html) 
 * [Emerald Group](http://www.emerald-group.com/job/?_job-keyword=&_job-country=222&_job-city=14&_job-sector=&_job-search=&_job-contract=&_job-salry=)
@@ -31,9 +50,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [SwissLinx](https://www.swisslinx.com/jobs?q=&jto=false&options=,56&page=1&size=24) 
 
 
-
-
-## Insurance
+## Insurance {#insurance}
 
 * [Allianz CH](https://careers.allianz.com/de_CH.html)
 * [Axa Winterthur](https://axa.ch/content/axa/en/ueber-axa/jobs-karriere/stellenangebote/offene-stellen.html)
@@ -52,8 +69,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Zurich](https://insurance-careers.taleo.net/careersection/zurich_ext_ch_en/jobsearch.ftl?lang=en&src=JB-11400#)
 
 
-
-## Banks
+## Banks {#banks}
 
 * [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/external_advsearch/moresearch.ftl?lang=de)
 * [Julius Bär](https://juliusbaer.wd3.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
@@ -67,9 +83,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [ZKB](https://apply.refline.ch/792841/search.html)
 
 
-
-
-## Asset Managers
+## Asset Managers {#asset-managers}
 
 * [Finreon](https://www.finreon.ch/de/unternehmen.html)
 * [Fisch Asset Management](https://www.fam.ch/en/about-us/careers/)
@@ -79,7 +93,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [VZ Vermögenszentrum](https://www.vermoegenszentrum.ch/karrieremoglichkeiten/offene-stellen.html?branchOffice=Z%25C3%25BCrich)
 
 
-## Hedge Funds
+## Hedge Funds {#hedge-funds}
 
 * [Amplitude Capital](https://www.linkedin.com/company/amplitude-capital/)
 * Citadel Securities: [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
@@ -89,12 +103,12 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Winton Capital](https://www.winton.com/opportunities) 
 
 
-## Fintechs/Startups
+## Fintechs/Startups {#fintechs-startups}
 
 * [Investiere](https://www.investiere.ch/jobs/all/zurich) (Startup job aggregator)
 
 
-## Consultancies
+## Consultancies {#consultancies}
 
 * [AWK Group](https://awk.ch/en/Jobs/Graduates.php)
 * [Bain](https://www.joinbain.ch/jobs)
@@ -126,8 +140,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Even more consulting companies](https://www.asco.ch/mitglieder/mitgliederuebersicht/#1497610789409-3cc7a6c4-91ed)
 
 
-
-## IT/Quantdev
+## IT/Quantdev {#it-quantdev}
 
 * [Algotrader](https://www.algotrader.com/about-us/jobs/)
 * [InCube](https://www.incubegroup.com/about-us/open-positions/)
@@ -135,7 +148,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [SwissQuant](https://www.swissquant.com/en/open-positions/)
 
 
-## Other
+## Other {#other}
 
 * [Axpo power supply](https://www.axpo.com/content/axpo2/ch/de/karriere/offene-stellen.html)
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
@@ -145,3 +158,80 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Facebook](https://www.facebook.com/careers/locations/zurich/?locations[0]=Zurich%2C%20Switzerland#openpositions)
 * [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CH//?lang=en)
 * [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
+
+
+----
+
+
+# Interview Questions in Quantitative Finance {#interview-questions}
+
+Here is a list of possible questions that you might want to study up for the technical part of your interviews. This list is in no way exhaustive, but I hope it serves as a good first approximation. I am curious about what questions you encountered during your interviews. Let me know: <adrianscheerer@gmail.com> or [LinkedIn](https://www.linkedin.com/in/adrianscheerer/) so I can add them here.
+
+
+## Brainteasers {#brainteasers}
+
+These are open-ended questions that show your interviewers how you think. It is not necessarily important to find the correct answer, it is more important that you let your interviewers participate in your thinking process. It is therefore OK and good practice to think out loud, but nevertheless you should put emphasis on structuring your thoughts.
+
+* You have two black and two grey socks. You pick two of them at random. What is the probability to pick two socks of the same color?
+* A Spider and a mosquito sit in opposing corners of a (cube-shaped) room. What's the shortest path for the spider to catch the mosquito? (assuming the mosquito sits still)
+* A spider sits in one corner of a (again cube-shaped) room and wants to reach the opposite corner of the room. It can only walk on edges (not faces) of the room, and in each corner it randomly decides which corner to go next to. What is the expected number of steps to reach the opposite corner?
+* You have two urns and 50 red and 50 blue marbles. You need to pick one marble at random from each of the urns. How would you allocate the marbles to the urns such as to maximize the chance of picking two red marbles?
+* You got two envelopes with two distinct real numbers. You chose one of them and open it. After you see the number you are allowed to swap envelopes. You win if at the end you pick the larger number. Find a strategy that gives you a probability more than 1/2 of winning. (Taken from (https://blog.tanyakhovanova.com/2019/10/a-probability-puzzle/))
+
+
+## Recent Topics in Finance {#recent-topics-in-finance}
+
+* Know about very recent topics (i.e. that have been discussed in the news recently)
+* What happened during the financial crisis 2008?
+* Libor replacement
+* Negative interest rates (how come? what effect? how to model them? interest rate politics of CH, EU, US? know recent CH, EU and US yield curve structures and rates)
+
+
+## Classical Topics in Mathematical Finance {#classical-topics-in-mathematical-finance}
+
+* Black-Scholes
+* Black-Scholes
+* Again: Black-Scholes in all variants that you can imagine
+* Know the most common financial products, their properties, and how to value them (e.g. stocks, options, forwards/futures, bonds, basic interest rate products/derivatives)
+* What is a risk factor?
+* Greeks. You can get a long way by very well understanding basic principles (i.e. how greeks in general behave, not necessarily assuming a specific model for the underlying). Also: What happens with greeks of non-continuous derivatives (e.g. binary options). How to delta or gamma hedge binary options. 
+* You can have either two options with one year to maturity or one option with two years to maturity. Both have the same specifications (e.g. are at the money, have the same underlying, both are calls). Which would you choose?
+* How does a bank/insurance company work? How does its balance sheet look like (stylized)? How is the P&L of a bank/insurance company affected by rising/falling interest rates?
+* Trick question: How many stocks in the S&P500?
+* Do you invest?
+
+
+## Applied Knowledge {#applied-knowledge}
+
+The exact requirements vary from company to company and from job to job. It's probably best to read in advance many job descriptions and pick the skills that you like and want to focus on during your preparations.
+
+* Programming (both practical and theoretical (e.g. how are dictionaries in Python implemented?). You should probably know one language for data analysis and one general-purpose language. Also, Excel and SQL are usually required. Do you have projects on GitHub?)
+* Statistics (solid knowledge of basic statistics. On top of that: the more, the better.)
+* Financial mathematics (the depth of required knowledge depends on the position you apply to.)
+* Trading (I suggest you do some real trading, even with very little money. This way you pick up practical trading knowledge/language, such as: picking a broker, picking a stock exchange, transaction fees, order types, the order book and liquidity, front running, slippage, market opening hours and pre/after-market trading, common indices, basic trading/hedging strategies, market making, arbitrage, perhaps even automation/trading API's, what it feels like to trade volatile stocks, etc.)
+
+
+## HR Interview Questions {hr-interview-questions}
+
+These are the hardest for me. So please take with a grain of salt what I write here. It is probably best to be prepared and answer honestly. Many recruiters are trained psychologists, so I imagine it is important what you say, how you say it, but also what you don't say. I would be very interested in learning more about the HR interview from the viewpoint of the recruiter. What are your insights? Please let me know so I can share them here.
+
+* Make sure you know basic facts about the company you apply to: their history, business model, values, what their logo means, their legal structure, their CEO, etc.
+* Tell me about yourself. Introduce you.
+* How would you fit in our company?
+* Why did you apply to this position? to our company?
+* What value do you provide to our company that other applicants don't?
+* How do you talk to people? (Especially: How do you talk to non-mathematicians/physicists?)
+* Have you thought about doing a CFA/FRM/Actuary/etc?
+* Where do you see yourself in 5 years from now?
+* Do you have any questions you would like to ask us?
+* Tell me a situation where you had to deal with a difficult colleague? How was the conflict resolved?
+* Tell me a difficult situation during your last job?
+* What do you do when a person does not provide the information you asked for?
+* Have you ever had a different opinion than your superior?
+* What are you most proud of (personal, career-wise, during your last job)? Consider the opposite question as well.
+* Tell me a situation where you worked in a team. What role did you play? How do you motivate others?
+* Have you set yourself goals and failed? How did you deal with that failure?
+
+Usually at the end of the HR part:
+* What is your salary now?
+* What are your salary expectations? (base salary, bonus, benefits)
