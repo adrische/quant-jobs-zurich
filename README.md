@@ -209,10 +209,10 @@ These are open-ended questions that show your interviewers how you think. It is 
 
 The exact requirements vary from company to company and from job to job. It's probably best to read in advance many job descriptions and pick the skills that you like and want to focus on during your preparations.
 
-* Programming (both practical and theoretical (e.g. how are dictionaries in Python implemented?). You should probably know one language for data analysis and one general-purpose language. Also, Excel and SQL are usually required. Do you have projects on GitHub?)
-* Statistics (solid knowledge of basic statistics. On top of that: the more, the better.)
-* Financial mathematics (the depth of required knowledge depends on the position you apply to.)
-* Trading (I suggest you do some real trading, even with very little money. This way you pick up practical trading knowledge/language, such as: picking a broker, picking a stock exchange, transaction fees, order types, the order book and liquidity, front running, slippage, market opening hours and pre/after-market trading, common indices, basic trading/hedging strategies, market making, arbitrage, perhaps even automation/trading API's, what it feels like to trade volatile stocks, etc.)
+* **Programming** (both practical and theoretical (e.g. how are dictionaries in Python implemented?). You should probably know one language for data analysis and one general-purpose language. Also, Excel and SQL are usually required. Do you have projects on GitHub?)
+* **Statistics** (solid knowledge of basic statistics. On top of that: the more, the better.)
+* **Financial mathematics** (the depth of required knowledge depends on the position you apply to.)
+* **Trading** (I suggest you do some real trading, even with very little money. This way you pick up practical trading knowledge/language, such as: picking a broker, picking a stock exchange, transaction fees, order types, the order book and liquidity, front running, slippage, market opening hours and pre/after-market trading, common indices, basic trading/hedging strategies, market making, arbitrage, perhaps even automation/trading API's, what it feels like to trade volatile stocks, etc.)
 
 
 ## HR Interview Questions
