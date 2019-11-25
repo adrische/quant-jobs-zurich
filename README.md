@@ -169,7 +169,9 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 # Interview Questions in Quantitative Finance
 
-Here is a list of possible questions that you might want to study up for the technical part of your interviews. This list is in no way exhaustive, but I hope it serves as a good first approximation. I am curious about what questions you encountered during your interviews. Let me know: <adrianscheerer@gmail.com> or [LinkedIn](https://www.linkedin.com/in/adrianscheerer/) so I can add them here.
+Here is a list of possible questions that you might want to study up for the technical part of your interviews. This list is in no way exhaustive, but I hope it serves as a good first approximation. 
+
+I am curious about what questions you encountered during your interviews. Let me know! <adrianscheerer@gmail.com> or [LinkedIn](https://www.linkedin.com/in/adrianscheerer/) so I can add them here.
 
 
 ## Brainteasers
