@@ -9,19 +9,19 @@ Miss a company? Found a broken link? Please reach out to me! I'd be happy to kno
 
 * [Quant Jobs in Zurich](#job-aggregators)
   * [Job Aggregators](#job-aggregators)
-  * [Head Hunters/Agencies](#head-hunters-agencies)
+  * [Head Hunters/Agencies](#head-huntersagencies)
   * [Insurance](#insurance)
   * [Banks](#banks)
   * [Asset Managers](#asset-managers)
   * [Hedge Funds](#hedge-funds)
-  * [Fintechs/Startups](#fintechs-startups)
+  * [Fintechs/Startups](#fintechsstartups)
   * [Consultancies](#consultancies)
-  * [IT/Quantdev](#it-quantdev)
+  * [IT/Quantdev](#itquantdev)
   * [Other](#other)
 * [Interview Questions in Quantitative Finance](#interview-questions-in-quantitative-finance)
   * [Brainteasers](#brainteasers)
-  * [Recent Topics in finance](#recent-topics-in-finance)
-  * [Classical Topics in finance](#classical-topics-in-finance)
+  * [Recent Topics in Finance](#recent-topics-in-finance)
+  * [Classical Topics in Mathematical Finance](#classical-topics-in-mathematical-finance)
   * [Applied Knowledge](#applied-knowledge)
   * [HR Interview Questions](#hr-interview-questions)
 
@@ -176,7 +176,7 @@ These are open-ended questions that show your interviewers how you think. It is 
 * A Spider and a mosquito sit in opposing corners of a (cube-shaped) room. What's the shortest path for the spider to catch the mosquito? (assuming the mosquito sits still)
 * A spider sits in one corner of a (again cube-shaped) room and wants to reach the opposite corner of the room. It can only walk on edges (not faces) of the room, and in each corner it randomly decides which corner to go next to. What is the expected number of steps to reach the opposite corner?
 * You have two urns and 50 red and 50 blue marbles. You need to pick one marble at random from each of the urns. How would you allocate the marbles to the urns such as to maximize the chance of picking two red marbles?
-* You got two envelopes with two distinct real numbers. You chose one of them and open it. After you see the number you are allowed to swap envelopes. You win if at the end you pick the larger number. Find a strategy that gives you a probability more than 1/2 of winning. (Taken from (https://blog.tanyakhovanova.com/2019/10/a-probability-puzzle/))
+* You got two envelopes with two distinct real numbers. You chose one of them and open it. After you see the number you are allowed to swap envelopes. You win if at the end you pick the larger number. Find a strategy that gives you a probability more than 1/2 of winning. (Taken from https://blog.tanyakhovanova.com/2019/10/a-probability-puzzle/)
 
 
 ## Recent Topics in Finance
