@@ -60,6 +60,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Postfinance](https://www.postfinance.ch/en/about-us/jobs-careers/jobs.html?jobFilter.fulltext=&jobFilter.department=&jobFilter.position=&jobFilter.percentage=&jobFilter.region=)
 * [Pictet](https://career5.successfactors.eu/career?company=banquepict&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=3v2WER5lKVnOYUG2anaz7emi6sg%3d)
 * [Rothschild](https://rothschildandco.wd3.myworkdayjobs.com/RothschildAndCo_Lateral/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
+* [Sberbank](https://www.sberbank.ch/careers/vacant-positions)
 * [SNB](https://snb.ch/en/ifor/job/id/job_openings)
 * [UBS](https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012#keyWordSearch=&locationSearch=Switzerland%20-%20Z%C3%BCrich)
 * [Vontobel](https://vontobel.wd3.myworkdayjobs.com/Vontobel_External_Career/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
@@ -84,6 +85,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * Citadel Securities: [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
 * [LGT Capital Partners](https://www.lgtcp.com/en/careers/current-vacancies/)
 * [RAM Active Investments Pfäffikon](https://ram-ai.com/de/careers/)
+* [Tolomeo Capital](https://www.tolomeo-capital.com/#jobs)
 * [Winton Capital](https://www.winton.com/opportunities) 
 
 
@@ -127,6 +129,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## IT/Quantdev
 
+* [Algotrader](https://www.algotrader.com/about-us/jobs/)
 * [InCube](https://www.incubegroup.com/about-us/open-positions/)
 * [Leonteq](https://ch.leonteq.com/about-us/careers/open-positions)
 * [SwissQuant](https://www.swissquant.com/en/open-positions/)
