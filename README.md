@@ -27,7 +27,7 @@ In case you are a mathematician (or related) and are looking for a job in quanti
 
 Miss a company? Found a broken link? Please reach out to me! I'd be happy to know if you have any comments, additions or corrections. Drop me a mail at <adrianscheerer@gmail.com>, connect to me [via LinkedIn](https://www.linkedin.com/in/adrianscheerer/), or file a GitHub issue/pull request to this page.
 
-See below for a list of possible [interview questions](#interview-questions-in-quantitative-finance).
+See below for a list of possible [quant interview questions](#interview-questions-in-quantitative-finance).
 
 
 ## Job aggregators
