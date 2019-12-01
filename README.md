@@ -35,6 +35,7 @@ See below for a list of possible [quant interview questions](#interview-question
 _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative, data science, research, machine learning, Statistik, statistics, Risiko, risk, Aktuar, Actuary, etc
 
 * [efinancialcareers.ch Mathematics](https://www.efinancialcareers.ch/search/?q=quantitative%20AND%20mathematics%20AND%20mathematik&location=Z%C3%BCrich,%20Schweiz&latitude=47.3768866&longitude=8.541694&countryCode=CH&locationPrecision=City&adminDistrictCode=ZH&page=1&pageSize=10&facets=*&currencyCode=CHF&language=de)
+* [Finance Jobs](https://financejobs.ch/en/jobs/?location=Zurich&seed=72185)
 * [Indeed.ch - Mathematics Zürich newest](https://www.indeed.ch/jobs?q=mathematics&l=Z%C3%BCrich%2C+ZH&sort=date)
 * [Jobs.ch Mathematics Zurich](https://www.jobs.ch/en/vacancies/?location=z%C3%BCrich&sort-by=date&term=mathematics)
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/search/?geoId=102436504&keywords=quantitative&location=Zurich%2C%20Switzerland&trk=homepage-basic_recent-search&redirect=false&position=1&pageNum=0)
@@ -75,6 +76,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Banks
 
+* [Citi](https://jobs.citi.com/search-jobs/Zurich?orgIds=287&alp=2658434-2657895-2657896&alt=4)
 * [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/external_advsearch/moresearch.ftl?lang=de)
 * [Julius Bär](https://juliusbaer.wd3.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Postfinance](https://www.postfinance.ch/en/about-us/jobs-careers/jobs.html?jobFilter.fulltext=&jobFilter.department=&jobFilter.position=&jobFilter.percentage=&jobFilter.region=)
@@ -157,11 +159,13 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Axpo power supply](https://www.axpo.com/content/axpo2/ch/de/karriere/offene-stellen.html)
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
+* [Amazon](https://www.amazon.jobs/de/locations/zurich-switzerland)
 * [Apple](https://jobs.apple.com/en-us/search?location=zurich-ZUR)
 * [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Zurich,%20Switzerland&q=&sort_by=relevance)
 * [Facebook](https://www.facebook.com/careers/locations/zurich/?locations[0]=Zurich%2C%20Switzerland#openpositions)
 * [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CH//?lang=en)
 * [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
+* [Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)
 
 
 ----
