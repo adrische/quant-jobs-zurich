@@ -93,6 +93,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 * [Finreon](https://www.finreon.ch/de/unternehmen.html)
 * [Fisch Asset Management](https://www.fam.ch/en/about-us/careers/)
+* [Hinder Asset Management](https://www.hinder-asset.ch/en/p146000307.html)
 * [Partners Group](https://jobs.partnersgroup.com/search/?createNewAlert=false&q=&locationsearch=switzerland&optionsFacetsDD_dept=&optionsFacetsDD_country=&optionsFacetsDD_location=)
 * [Schroders](https://schroders.referrals.selectminds.com/careers/jobs/search/306656)
 * [Swiss Life](https://www.swisslife.ch/en/about-us/jobs.html)
@@ -102,9 +103,12 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 ## Hedge Funds
 
 * [Amplitude Capital](https://www.linkedin.com/company/amplitude-capital/)
+* [Blackrock](https://careers.blackrock.com/job-search-results?location=CH%2C%20Zurich)
+* [Cevian Capital](https://www.ceviancapital.com/zurich/)
 * Citadel Securities: [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
 * [LGT Capital Partners](https://www.lgtcp.com/en/careers/current-vacancies/)
 * [RAM Active Investments Pfäffikon](https://ram-ai.com/de/careers/)
+* [Stone Milliner](http://www.stonemilliner.com/contact.html)
 * [Tolomeo Capital](https://www.tolomeo-capital.com/#jobs)
 * [Winton Capital](https://www.winton.com/opportunities) 
 
