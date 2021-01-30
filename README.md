@@ -29,6 +29,7 @@ Miss a company? Found a broken link? Please reach out to me! I'd be happy to kno
 
 See below for a list of possible [quant interview questions](#interview-questions-in-quantitative-finance).
 
+If this page helped you finding a job easier consider [buying me a coffee](https://ko-fi.com/adrische).
 
 ## Job aggregators
 
