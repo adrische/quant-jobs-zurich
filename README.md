@@ -1,4 +1,8 @@
-## Table of Contents
+_Looking for someone to expand this list to all of Switzerland <adrianscheerer@gmail.com>_
+
+----
+
+## Table of Content
 
 * [Quant Jobs in Zurich](#quant-jobs-in-zurich)
   * [Job Aggregators](#job-aggregators)
