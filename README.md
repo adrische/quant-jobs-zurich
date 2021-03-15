@@ -76,7 +76,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Suva Luzern](https://jobs.suva.ch/?locale=de_DE)
 * [Swica](https://www.swica.ch/de-ch/uber-swica/swica-als-arbeitgeber/offene-stellen)
 * [Swiss Re](https://careers.swissre.com/search/?q=&q2=&alertId=&locationsearch=zurich&title=&location=&date=)
-* [Zurich](https://insurance-careers.taleo.net/careersection/zurich_ext_ch_en/jobsearch.ftl?lang=en&src=JB-11400#)
+* [Zurich](https://www.careers.zurich.com/?locale=en_US)
 
 
 ## Banks
