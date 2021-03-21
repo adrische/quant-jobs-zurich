@@ -1,4 +1,4 @@
-_Looking for someone to expand this list to all of Switzerland <adrianscheerer@gmail.com>_
+_I am looking for someone to expand this list to all of Switzerland <adrianscheerer@gmail.com>_
 
 ----
 
