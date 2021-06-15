@@ -167,7 +167,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Other
 
-* [Axpo power supply](https://www.axpo.com/content/axpo2/ch/de/karriere/offene-stellen.html)
+* [Axpo power supply](https://www.axpo.com/ch/en/about-us/jobs-and-career/vacancies.html)
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
 * [Amazon](https://www.amazon.jobs/de/locations/zurich-switzerland)
