@@ -1,7 +1,7 @@
 **News**
 
 * Jan 2022: We are looking for an intern to support us with work on market risk.
-  The length of the internship would be 4-6 months and start date ideally as soon as possible. We would be looking for how fast you can learn and whether you already have relevant skills, potentially complementary to our current team (statistic/math pdh's). Some coding will be required. You can expect to learn a lot and to make a real contribution (you would be an equal team member and take responsibility for selected topics). Please reach out if this is interesting to you and you think you might be a suitable candidate. You would need to be eligible to work in Switzerland. https://www.careers.zurich.com/job-invite/83546/
+  The length of the internship would be 4-6 months and start date ideally as soon as possible. We would be looking for how fast you can learn and whether you already have relevant skills, potentially complementary to our current team (statistic/math phd's). Some coding will be required. You can expect to learn a lot and to make a real contribution (you would be an equal team member and take responsibility for selected topics). Please reach out if this is interesting to you and you think you might be a suitable candidate. You would need to be eligible to work in Switzerland. https://www.careers.zurich.com/job-invite/83546/
 
 * I am looking for someone to expand this list to all of Switzerland <adrianscheerer@gmail.com>, and I'm giving out [ARK-Invest "Stay Innovative" caps](https://ark-invest.store/collections/full-catalog/products/stay-innovative-hat) as a reward :) 
 
