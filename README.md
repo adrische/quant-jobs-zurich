@@ -118,6 +118,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [LGT Capital Partners](https://www.lgtcp.com/en/careers/current-vacancies/)
 * [RAM Active Investments Pfäffikon](https://ram-ai.com/de/careers/)
 * [Stone Milliner](http://www.stonemilliner.com/contact.html)
+* [Tensor Technologies](https://tensortechnologies.recruitee.com/) in Zug (suggested by Mito)
 * [Tolomeo Capital](https://www.tolomeo-capital.com/#jobs)
 * [Winton Capital](https://www.winton.com/opportunities) 
 
