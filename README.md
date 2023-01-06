@@ -73,6 +73,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Helsana](https://www.helsana.ch/en/helsana-group/jobs-career/open-positions?d=s52l0)
 * [Helvetia (Basel)](https://www.helvetia.com/ch/web/en/about-us/jobs-and-career/vacancies.html)
 * [Mobiliar](https://www.mobiliar.ch/die-mobiliar/karriere/stellenangebote/stellenangebote-direktionsstandorte-und-generalagenturen)
+* [MS Amlin](https://msamlin.wd3.myworkdayjobs.com/MSAmlinCareers?locations=6ad3ea69fefc016a70f8c71b6401e5a3)
 * [NewRe](https://munichre-jobs.com/de/NewRe?filter[company.id]=[2])
 * [Sanitas](https://www.sanitas.com/de/ueber-sanitas/arbeiten-bei-sanitas/offene-stellen.html)
 * [Scor](https://careers.scor.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=&optionsFacetsDD_customfield1=&optionsFacetsDD_country=CH)
