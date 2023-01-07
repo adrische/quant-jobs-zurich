@@ -48,7 +48,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [LinkedIn Jobs](https://www.linkedin.com/jobs/search/?geoId=102436504&keywords=quantitative&location=Zurich%2C%20Switzerland&trk=homepage-basic_recent-search&redirect=false&position=1&pageNum=0)
 * [Math-jobs Mathematics Switzerland](https://www.acad.jobs/Jobs/Mathematics-Statistics/ch-Switzerland/All-Categories/All-Levels/All-Job-Types)
 * [Versicherungsjobs-Schweiz](https://versicherungsjobs-schweiz.ch/search?provinces=ZH)
-* [OpenQuant](https://openquant.co/)
+* [OpenQuant](https://openquant.co/?country=Switzerland) (suggested by benwangmedium)
 
 
 ## Head Hunters/Agencies
