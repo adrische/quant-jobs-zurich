@@ -174,6 +174,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Axpo power supply](https://www.axpo.com/ch/en/about-us/jobs-and-career/vacancies.html)
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
+* [Ortec Finance](https://www.ortecfinance.com/en/vacancies#vacancies_region=Switzerland) (Pfäffikon SZ)
 * [Amazon](https://www.amazon.jobs/de/locations/zurich-switzerland)
 * [Apple](https://jobs.apple.com/en-us/search?location=zurich-ZUR)
 * [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Zurich,%20Switzerland&q=&sort_by=relevance)
