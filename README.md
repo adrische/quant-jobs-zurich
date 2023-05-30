@@ -70,6 +70,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [AXA XL Reinsurance](https://xl.taleo.net/careersection/001xlcatlinexternalcareersection/jobsearch.ftl?lang=en#)
 * [Axis Capital](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Baloise](https://www.baloise.com/en/jobs/overview.html?MultiLanguageFilter=allLanguage&displayLimit=10&editMode=false&query-str=&location=5601382812)
+* [Generali CH](https://www.generali.ch/en/allgemein/karriere/offene-stellen)
 * [Helsana](https://www.helsana.ch/en/helsana-group/jobs-career/open-positions?d=s52l0)
 * [Helvetia (Basel)](https://www.helvetia.com/ch/web/en/about-us/jobs-and-career/vacancies.html)
 * [Mobiliar](https://www.mobiliar.ch/die-mobiliar/karriere/stellenangebote/stellenangebote-direktionsstandorte-und-generalagenturen)
