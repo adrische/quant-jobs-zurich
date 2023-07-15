@@ -115,6 +115,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Hedge Funds
 
+* [2Xideas on Linkedin](https://www.linkedin.com/company/2xideas/jobs/)
 * [Amplitude Capital](https://www.linkedin.com/company/amplitude-capital/)
 * [Blackrock](https://careers.blackrock.com/job-search-results?location=CH%2C%20Zurich)
 * [Cevian Capital](https://www.ceviancapital.com/zurich/)
