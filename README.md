@@ -184,6 +184,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CH//?lang=en)
 * [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)
+* [Sony ML Zurich](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locationCountry=187134fccb084a0ea9b4b95f23890dbe)
 
 
 ----
