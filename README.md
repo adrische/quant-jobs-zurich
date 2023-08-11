@@ -58,6 +58,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Ivano Coni](https://www.coni-partner.com/)
 * [Michael Page](https://www.michaelpage.ch/jobs/quantitative/zurich)
 * [Nicoll Curtin](https://www.nicollcurtin.com/locations/switzerland/)
+* [Oxygen Digital](https://oxygendigital.ai/vacancies/?_sfm_location_country=Switzerland)
 * [Proacademics Jobvermittlung Winterthur](http://www.proacademics.ch/kandidaten/jobcenter/)
 * [Selby Jennings](https://www.phaidoninternational.com/jobs/?pagesize=12&page=1&sortdir=desc&opt=973%2C1533%2C1619%2C2526%2C973&sortby=currentcountry)
 * [SwissLinx](https://www.swisslinx.com/jobs?q=&jto=false&options=,56&page=1&size=24) 
