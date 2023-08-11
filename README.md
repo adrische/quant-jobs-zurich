@@ -1,6 +1,6 @@
 **News**
 
-* I am looking for someone to expand this list to all of Switzerland <adrianscheerer@gmail.com>, and I'm giving out [ARK-Invest "Stay Innovative" caps](https://ark-invest.store/collections/full-catalog/products/stay-innovative-hat) as a reward :) 
+* _For companies:_ Do you want to link to your vacancy on this page? Please reach out to adrianscheerer@gmail.com. This page has a targeted audience and appears as one of the top results on Google for keywords related to "quant" and "Zurich"/"Switzerland". It has ~150 unique visitors and ~300 total views over a two week span.
 
 * There is now also a LinkedIn group for Quants in Switzerland: [Quants in Switzerland](https://www.linkedin.com/groups/9060730/)
 
@@ -31,7 +31,7 @@
 
 In case you are a mathematician (or related) and are looking for a job in quantitative finance in Zurich, this list hopefully will be of some help. I collected the most important job aggregators, head hunters and companies in Zurich, including direct links to their career pages. This list does not include the rest of Switzerland.
 
-Miss a company? Found a broken link? Please reach out to me! I'd be happy to know if you have any comments, additions or corrections. Drop me a mail at or file a GitHub issue/pull request to this page.
+Miss a company? Found a broken link? Please reach out to me! I'd be happy to know if you have any comments, additions or corrections. Drop me a mail at adrianscheerer@gmail.com or file a GitHub issue/pull request to this page.
 
 See below for a list of possible [quant interview questions](#interview-questions-in-quantitative-finance).
 
