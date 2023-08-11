@@ -134,7 +134,6 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Consultancies
 
-* [AWK Group](https://awk.ch/en/Jobs/Graduates.php)
 * [Bain](https://www.joinbain.ch/jobs)
 * [BearingPoint](https://www.bearingpoint.com/de-ch/unser-team/karriere/stellenangebote/?country=CH&city=Zurich)
 * [Bmpi](https://bmpi.ch/bmpi/#jobs)
