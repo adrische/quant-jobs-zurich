@@ -143,6 +143,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [D-one](https://d-one.ai/career)
 * [Deloitte](https://jobs2.deloitte.com/ch/en/search-results)
 * [ELCA](https://www.elca.ch/en/jobs)
+* [Eraneos](https://www.awk.ch/job-overview)
 * [EY](https://eygbl.referrals.selectminds.com/experienced-opportunities/jobs/search/63418164/)
 * [Exxeta](https://career.exxeta.com/stellenangebote.html?start=0)
 * [Fintegral](https://jobs.fintegral.com/en)
