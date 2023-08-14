@@ -16,6 +16,7 @@
   * [Fintechs/Startups](#fintechsstartups)
   * [Consultancies](#consultancies)
   * [IT/Quantdev](#itquantdev)
+  * [Other finance](#other-finance)
   * [Other](#other)
 * [Interview Questions in Quantitative Finance](#interview-questions-in-quantitative-finance)
   * [Brainteasers](#brainteasers)
@@ -174,21 +175,26 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [SwissQuant](https://www.swissquant.com/en/open-positions/)
 
 
-## Other
+## Other finance
 
-* [Axpo power supply](https://www.axpo.com/ch/en/about-us/jobs-and-career/vacancies.html)
 * [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
 * [Ortec Finance](https://www.ortecfinance.com/en/vacancies#vacancies_region=Switzerland) (Pfäffikon SZ)
+* [SIX Zurich](https://jobs.six-group.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield2=&optionsFacetsDD_country=CH&optionsFacetsDD_customfield1=)
+
+
+## Other
+
+* [Axpo power supply](https://www.axpo.com/ch/en/about-us/jobs-and-career/vacancies.html)
 * [Amazon](https://www.amazon.jobs/de/locations/zurich-switzerland)
 * [Apple](https://jobs.apple.com/en-us/search?location=zurich-ZUR)
-* [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Zurich,%20Switzerland&q=&sort_by=relevance)
 * [Facebook](https://www.facebook.com/careers/locations/zurich/?locations[0]=Zurich%2C%20Switzerland#openpositions)
+* [Google](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Zurich,%20Switzerland&q=&sort_by=relevance)
 * [IBM](https://careers.ibm.com/ListJobs/All/Search/Country/CH//?lang=en)
 * [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Oracle](https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en)
 * [Sony ML Zurich](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locationCountry=187134fccb084a0ea9b4b95f23890dbe)
-* [SIX Zurich](https://jobs.six-group.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield2=&optionsFacetsDD_country=CH&optionsFacetsDD_customfield1=)
+* [Zalando](https://jobs.zalando.com/de/jobs/?gh_src=gk03hq&filters%5Boffices%5D%5B0%5D=Zurich%2C%20Switzerland)
 
 
 ----
