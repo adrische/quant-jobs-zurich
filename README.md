@@ -90,6 +90,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 * [Citi](https://jobs.citi.com/search-jobs/Zurich?orgIds=287&alp=2658434-2657895-2657896&alt=4)
 * [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/external_advsearch/moresearch.ftl?lang=de)
+* [Deutsche Bank](https://careers.db.com/professionals/search-roles/#/professional/results/?country=184)
 * [Julius Bär](https://juliusbaer.wd3.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Lombard Odier](https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Pictet](https://career5.successfactors.eu/career?company=banquepict&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=3v2WER5lKVnOYUG2anaz7emi6sg%3d)
