@@ -54,6 +54,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Head Hunters/Agencies
 
+* [Data Science Jobs](https://www.data-science-jobs.ch/)
 * [Eka Finance](http://ekafinance.com/contact.html) 
 * [Emerald Group](http://www.emerald-group.com/job/?_job-keyword=&_job-country=222&_job-city=14&_job-sector=&_job-search=&_job-contract=&_job-salry=)
 * [Ivano Coni](https://www.coni-partner.com/)
