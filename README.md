@@ -126,11 +126,18 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * Citadel Securities: [News Sept '19](https://www.finews.com/news/english-news/38164-citadel-switzerland-zurich-nicolai-meinshausen-kenneth-griffin-hedge-funds), [Official open positions](https://www.citadel.com/careers/open-positions/), [Nicolai Meinshausen on LinkedIn](https://www.linkedin.com/in/nicolai-meinshausen-52347b30/)
 * [LGT Capital Partners](https://www.lgtcp.com/en/careers/current-vacancies/)
 * [QRT](https://www.qube-rt.com/careers/)
-* [RAM Active Investments Pfäffikon](https://ram-ai.com/de/careers/)
 * [Schlossberg](https://join.com/companies/schlossbergco)
-* [Tensor Technologies](https://tensortechnologies.recruitee.com/) in Zug (suggested by Mito)
 * [Tolomeo Capital](https://www.tolomeo-capital.com/#jobs)
 * [Winton Capital](https://www.winton.com/opportunities) 
+
+### Hedge Funds not in Zurich
+
+* [Millenium](https://app.eightfold.ai/careers?domain=mlp.com) in Baar or Geneva
+* [Oryctérope / TMG](https://www.ortr.ch/careers) in Martigny
+* [Portofino on LinkedIn](https://www.linkedin.com/company/portofino-technologies/) in Zug
+* [RAM Active Investments](https://ram-ai.com/de/careers/) in Pfäffikon
+* [Squarepoint](https://www.squarepoint-capital.com/open-opportunities) in Zug
+* [Tensor Technologies](https://tensortechnologies.recruitee.com/) in Zug (suggested by Mito)
 
 
 ## Fintechs/Startups
