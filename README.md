@@ -132,12 +132,14 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ### Hedge Funds not in Zurich
 
+* [Cargill](https://careers.cargill.com/en/search-jobs/Switzerland/) in Geneva
 * [Millenium](https://app.eightfold.ai/careers?domain=mlp.com) in Baar or Geneva
 * [Oryctérope / TMG](https://www.ortr.ch/careers) in Martigny
-* [Portofino on LinkedIn](https://www.linkedin.com/company/portofino-technologies/) in Zug
+* [Portofino on Linkedin](https://www.linkedin.com/company/portofino-technologies/) in Zug
 * [RAM Active Investments](https://ram-ai.com/de/careers/) in Pfäffikon
 * [Squarepoint](https://www.squarepoint-capital.com/open-opportunities) in Zug
 * [Tensor Technologies](https://tensortechnologies.recruitee.com/) in Zug (suggested by Mito)
+* [Worldquant](https://www.worldquant.com/career-listing/?location=zug-switzerland&department=) in Zug and Geneva
 
 
 ## Fintechs/Startups
