@@ -138,6 +138,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Portofino on Linkedin](https://www.linkedin.com/company/portofino-technologies/) in Zug
 * [RAM Active Investments](https://ram-ai.com/de/careers/) in Pfäffikon
 * [Squarepoint](https://www.squarepoint-capital.com/open-opportunities) in Zug
+* [Statistica Capital](https://www.linkedin.com/company/statistica-capital/jobs/) 
 * [Tensor Technologies](https://tensortechnologies.recruitee.com/) in Zug (suggested by Mito)
 * [Worldquant](https://www.worldquant.com/career-listing/?location=zug-switzerland&department=) in Zug and Geneva
 
