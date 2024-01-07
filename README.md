@@ -112,7 +112,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Fisch Asset Management](https://www.fam.ch/en/about-us/careers/)
 * [Hinder Asset Management](https://www.hinder-asset.ch/en/p146000307.html)
 * [Partners Group](https://jobs.partnersgroup.com/search/?createNewAlert=false&q=&locationsearch=switzerland&optionsFacetsDD_dept=&optionsFacetsDD_country=&optionsFacetsDD_location=)
-* [Schroders](https://schroders.referrals.selectminds.com/careers/jobs/search/306656)
+* [Schroders](https://schroders.referrals.selectminds.com/careers/jobs/search/2876317)
 * [Swiss Life](https://www.swisslife.ch/en/about-us/jobs.html)
 * [VZ Vermögenszentrum](https://www.vermoegenszentrum.ch/karrieremoglichkeiten/offene-stellen.html?branchOffice=Z%25C3%25BCrich)
 
