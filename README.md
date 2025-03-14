@@ -1,5 +1,7 @@
 **News**
 
+* If you found the information on this site helpful, consider supporting its development with a [donation](https://buy.stripe.com/bIY29j6DO9VC1gY7ss). Thank you for your support!
+
 * _For companies:_ Do you want to link to your vacancy on this page? Please reach out to adrianscheerer@gmail.com. This page has a targeted audience and appears as one of the top results on Google for keywords related to "quant" and "Zurich"/"Switzerland". It has ~150 unique visitors and ~300 total views over a two week span.
 
 * There is now also a LinkedIn group for Quants in Switzerland: [Quants in Switzerland](https://www.linkedin.com/groups/9060730/)
