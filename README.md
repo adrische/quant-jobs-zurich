@@ -1,5 +1,7 @@
 **News**
 
+* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt).
+
 * If you found the information on this site helpful, consider supporting its development with a [donation](https://buy.stripe.com/bIY29j6DO9VC1gY7ss). Thank you for your support!
 
 * _For companies:_ Do you want to link to your vacancy on this page? Please reach out to adrianscheerer@gmail.com. This page has a targeted audience and appears as one of the top results on Google for keywords related to "quant" and "Zurich"/"Switzerland". It has ~150 unique visitors and ~300 total views over a two week span.
