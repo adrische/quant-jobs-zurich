@@ -1,6 +1,6 @@
 **News**
 
-* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt).
+* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically](#https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
 
 * If you found the information on this site helpful, consider supporting its development with a [donation](https://buy.stripe.com/bIY29j6DO9VC1gY7ss). Thank you for your support!
 
