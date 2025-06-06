@@ -1,8 +1,8 @@
 **News**
 
-* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically](https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
+* 200 stars 🤩 Thank you!
 
-* If you found the information on this site helpful, consider supporting its development with a [donation](https://buy.stripe.com/bIY29j6DO9VC1gY7ss). Thank you for your support!
+* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically](https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
 
 * _For companies:_ Do you want to link to your vacancy on this page? Please reach out to adrianscheerer@gmail.com. This page has a targeted audience and appears as one of the top results on Google for keywords related to "quant" and "Zurich"/"Switzerland". It has ~150 unique visitors and ~300 total views over a two week span.
 
@@ -54,6 +54,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [Math-jobs Mathematics Switzerland](https://www.acad.jobs/Jobs/Mathematics-Statistics/ch-Switzerland/All-Categories/All-Levels/All-Job-Types)
 * [Versicherungsjobs-Schweiz](https://versicherungsjobs-schweiz.ch/search?provinces=ZH)
 * [OpenQuant](https://openquant.co/?country=Switzerland) (suggested by benwangmedium)
+* [80,000 hours job board](https://jobs.80000hours.org/?refinementList%5Btags_location_80k%5D%5B0%5D=Switzerland&refinementList%5Btags_location_80k%5D%5B1%5D=Remote%2C%20Global) has positions based in Switzerland, and fully remote ones
 
 
 ## Head Hunters/Agencies
