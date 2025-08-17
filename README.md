@@ -73,13 +73,13 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Insurance
 
-* [Allianz CH](https://careers.allianz.com/de_CH.html)
+* [Allianz CH](https://careers.allianz.com/global/en/search-results?p=ChIJYW1Zb-9kjEcRFXvLDxG1Vlw&location=Switzerland)
 * [Axa Winterthur](https://axa.ch/content/axa/en/ueber-axa/jobs-karriere/stellenangebote/offene-stellen.html)
 * [AXA XL Reinsurance](https://xl.taleo.net/careersection/001xlcatlinexternalcareersection/jobsearch.ftl?lang=en#)
 * [Axis Capital](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/1/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [Baloise](https://www.baloise.com/en/jobs/overview.html?MultiLanguageFilter=allLanguage&displayLimit=10&editMode=false&query-str=&location=5601382812)
 * [Chubb CH](https://careers.chubb.com/global/en/search-results)
-* [Generali CH](https://www.generali.ch/en/allgemein/karriere/offene-stellen)
+* [Generali CH](https://www.generali.ch/en/career/vacancies)
 * [Helsana](https://www.helsana.ch/en/helsana-group/jobs-career/open-positions?d=s52l0)
 * [Helvetia (Basel)](https://www.helvetia.com/ch/web/en/about-us/jobs-and-career/vacancies.html)
 * [Mobiliar](https://www.mobiliar.ch/die-mobiliar/karriere/stellenangebote/stellenangebote-direktionsstandorte-und-generalagenturen)
@@ -87,9 +87,9 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 * [NewRe](https://munichre-jobs.com/de/NewRe?filter[company.id]=[2])
 * [PartnerRe](https://www.partnerre.com/careers/)
 * [Sanitas](https://www.sanitas.com/de/ueber-sanitas/arbeiten-bei-sanitas/offene-stellen.html)
-* [Scor](https://careers.scor.com/search/?createNewAlert=false&q=&optionsFacetsDD_department=&optionsFacetsDD_customfield1=&optionsFacetsDD_country=CH)
+* [Scor](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs?location=Switzerland&locationId=300000000424936&locationLevel=country&mode=location)
 * [Suva Luzern](https://jobs.suva.ch/?locale=de_DE)
-* [Swica](https://www.swica.ch/de-ch/uber-swica/swica-als-arbeitgeber/offene-stellen)
+* [Swica](https://www.swica.ch/de/kampagnen/intern/jobs/freie-stellen)
 * [Swiss Re](https://careers.swissre.com/search/?q=&q2=&alertId=&locationsearch=zurich&title=&location=&date=)
 * [Zurich](https://www.careers.zurich.com/?locale=en_US)
 
