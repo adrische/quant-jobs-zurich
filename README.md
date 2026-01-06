@@ -1,5 +1,7 @@
 **News**
 
+* There is now a separate community-maintained list of companies hiring for AI roles: https://github.com/adrische/AI-Jobs-Switzerland
+
 * 200 stars 🤩 Thank you!
 
 * I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically](https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
