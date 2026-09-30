@@ -1,10 +1,12 @@
 **News**
 
+* There are some problems on the job market caused or exacerbated by AI. If you have some time, why not contribute to improve the situation a little bit for everyone? I've written about this [here](https://adrische.github.io/2026/09/30/hiring-problems-caused-by-AI.html).
+
 * There is now a separate community-maintained list of companies hiring for AI roles: https://github.com/adrische/AI-Jobs-Switzerland
 
 * 200 stars 🤩 Thank you!
 
-* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically](https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
+* I sometimes review CVs, please don't hesitate to reach out. I got [positive feedback](CV-review-feedback.txt). Or you can [generate or review CVs automatically (status: April 2025)](https://github.com/adrische/write-ups/blob/main/How%20to%20write%20a%20CV%20in%20the%20age%20of%20AI.md).
 
 * _For companies:_ Do you want to link to your vacancy on this page? Please reach out to adrianscheerer@gmail.com. This page has a targeted audience and appears as one of the top results on Google for keywords related to "quant" and "Zurich"/"Switzerland". It has ~150 unique visitors and ~300 total views over a two week span.
 
