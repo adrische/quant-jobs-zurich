@@ -198,7 +198,7 @@ _Try the following keywords:_ Mathematik, Mathematics, quantitativ, quantitative
 
 ## Other finance
 
-* [Bank for international settlements, Basel](https://www.bis.org/careers/vacancies.htm)
+* [Bank for international settlements, Basel](https://www.bis.org/about/careers/vacancies/)
 * [FinMA](https://www.finma.ch/de/finma/arbeiten-bei-der-finma/offene-stellen/)
 * [Ortec Finance](https://www.ortecfinance.com/en/vacancies#vacancies_region=Switzerland) (Pfäffikon SZ)
 * [SIX Zurich](https://jobs.six-group.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield2=&optionsFacetsDD_country=CH&optionsFacetsDD_customfield1=)
